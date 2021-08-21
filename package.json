@@ -1,0 +1,16 @@
+{
+  "name": "church-titles",
+  "version": "1.0.0",
+  "description": "A lower third generator for church titles",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "applest-atem": "^0.2.4",
+    "csv-parse": "^4.16.0",
+    "filenamify": "^5.0.0",
+    "handlebars": "^4.7.7"
+  }
+}

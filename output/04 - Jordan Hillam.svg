@@ -1,0 +1,59 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" x="0" y="0" viewBox="0 0 1920 1080" xml:space="preserve" enable-background="new 0 0 1920 1080" width="1920" height="1080" style="background-color: rgba(0,0,0,0);">
+  <style>
+    @font-face {
+        font-family: 'MarineUP';
+        src: url('../MarineUP.woff2') format('woff2'),
+            url('../MarineUP.woff') format('woff');
+        font-weight: normal;
+        font-style: normal;
+        font-display: swap;
+    }
+
+    @font-face {
+        font-family: 'Palatino';
+        src: url('../Palatino-Bold.woff2') format('woff2'),
+            url('../Palatino-Bold.woff') format('woff');
+        font-weight: bold;
+        font-style: normal;
+        font-display: swap;
+    }
+    .nameText {
+      fill: #fff;
+      font-size: 72px;
+      font-family: 'Palatino';
+      font-weight: bold;
+      font-style: normal;
+      font-display: swap;
+    }
+    .titleText {
+      font-family: 'MarineUP';
+      font-weight: normal;
+      font-style: normal;
+      font-display: swap;
+      font-size: 48px;
+      fill: #fff;
+    }
+    .background {
+      fill: #000;
+      fill-opacity: 0;
+    }
+  </style>
+  <defs>
+    <filter id="dropShadowFilter" x="0" y="0" width="200%" height="200%">
+      <feOffset result="offOut" in="SourceAlpha" dx="5" dy="5"/>
+      <feGaussianBlur result="blurOut" in="offOut" stdDeviation="5"/>
+      <feBlend in="SourceGraphic" in2="blurOut"/>
+    </filter>
+  </defs>
+  <linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="960" y1="730" x2="960" y2="1080">
+    <stop offset="0" stop-color="#000000" stop-opacity="0"/>
+    <stop offset="1" stop-color="#013058"/>
+  </linearGradient>
+  <rect width="1920" height="1080" class="background" />
+  <path fill="url(#SVGID_1_)" d="M0 730h1920v350H0z"/>
+  <g filter="url(#dropShadowFilter)">
+    <text transform="translate(960 890)" class="nameText" text-anchor="middle">Jordan Hillam</text>
+    <text transform="translate(960 953)" class="titleText" text-anchor="middle">SECOND COUNSELOR</text>
+    <text transform="translate(960 1006)" class="titleText" text-anchor="middle">TAYLOR MOUNTAIN STAKE PRESIDENCY</text>
+  </g>
+</svg>
