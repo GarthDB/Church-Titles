@@ -52,8 +52,8 @@
   <rect width="1920" height="1080" class="background" />
   <path fill="url(#SVGID_1_)" d="M0 730h1920v350H0z"/>
   <g filter="url(#dropShadowFilter)">
-    <text transform="translate(960 890)" class="nameText" text-anchor="middle">“Joseph Smith’s First Prayer”</text>
-    <text transform="translate(960 953)" class="titleText" text-anchor="middle">PAGE 26</text>
-    <text transform="translate(960 1006)" class="titleText" text-anchor="middle"></text>
+    <text transform="translate(960 890)" class="nameText" text-anchor="middle">“Love is Spoken Here”</text>
+    <text transform="translate(960 953)" class="titleText" text-anchor="middle">CONDUCTOR: BRYAN ATKINS, ORGAN: LAURIE LUKE, PIANO: BARRY PENFOLD</text>
+    <text transform="translate(960 1006)" class="titleText" text-anchor="middle">VIOLINS: JAMES WRIGHT, KIM LOWE</text>
   </g>
 </svg>

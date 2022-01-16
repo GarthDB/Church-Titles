@@ -52,8 +52,8 @@
   <rect width="1920" height="1080" class="background" />
   <path fill="url(#SVGID_1_)" d="M0 730h1920v350H0z"/>
   <g filter="url(#dropShadowFilter)">
-    <text transform="translate(960 890)" class="nameText" text-anchor="middle">“Let Us All Press On”</text>
-    <text transform="translate(960 953)" class="titleText" text-anchor="middle">PAGE 243</text>
-    <text transform="translate(960 1006)" class="titleText" text-anchor="middle"></text>
+    <text transform="translate(960 890)" class="nameText" text-anchor="middle">Elder Kevin J. Hathaway</text>
+    <text transform="translate(960 953)" class="titleText" text-anchor="middle">AREA SEVENTY</text>
+    <text transform="translate(960 1006)" class="titleText" text-anchor="middle">THE CHURCH OF JESUS CHRIST OF LATTER-DAY SAINTS</text>
   </g>
 </svg>

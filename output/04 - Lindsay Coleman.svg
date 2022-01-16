@@ -52,8 +52,8 @@
   <rect width="1920" height="1080" class="background" />
   <path fill="url(#SVGID_1_)" d="M0 730h1920v350H0z"/>
   <g filter="url(#dropShadowFilter)">
-    <text transform="translate(960 890)" class="nameText" text-anchor="middle">Debi Lamb</text>
-    <text transform="translate(960 953)" class="titleText" text-anchor="middle">CHURCH SERVICE MISSIONARY</text>
+    <text transform="translate(960 890)" class="nameText" text-anchor="middle">Lindsay Coleman</text>
+    <text transform="translate(960 953)" class="titleText" text-anchor="middle">VICTORIAN VILLAGE WARD</text>
     <text transform="translate(960 1006)" class="titleText" text-anchor="middle">IDAHO FALLS TAYLOR MOUNTAIN STAKE</text>
   </g>
 </svg>

@@ -52,8 +52,8 @@
   <rect width="1920" height="1080" class="background" />
   <path fill="url(#SVGID_1_)" d="M0 730h1920v350H0z"/>
   <g filter="url(#dropShadowFilter)">
-    <text transform="translate(960 890)" class="nameText" text-anchor="middle">Nichole Jones</text>
-    <text transform="translate(960 953)" class="titleText" text-anchor="middle">SECOND COUNSELOR</text>
-    <text transform="translate(960 1006)" class="titleText" text-anchor="middle">HALLMARK WARD RELIEF SOCIETY PRESIDENCY</text>
+    <text transform="translate(960 890)" class="nameText" text-anchor="middle">Loren Adams</text>
+    <text transform="translate(960 953)" class="titleText" text-anchor="middle">HALLMARK WARD</text>
+    <text transform="translate(960 1006)" class="titleText" text-anchor="middle">IDAHO FALLS TAYLOR MOUNTAIN STAKE</text>
   </g>
 </svg>
